@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		690A5A0D1E8CD1F600A6A9C0 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 690A5A0C1E8CD1F600A6A9C0 /* 1.jpg */; };
-		6945F52F1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.m in Sources */ = {isa = PBXBuildFile; fileRef = 6945F52E1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.m */; };
 		699056191E8B48A300D014AB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 699056181E8B48A300D014AB /* main.m */; };
 		6990561C1E8B48A300D014AB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6990561B1E8B48A300D014AB /* AppDelegate.m */; };
 		6990561F1E8B48A300D014AB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6990561E1E8B48A300D014AB /* ViewController.m */; };
@@ -21,8 +20,6 @@
 
 /* Begin PBXFileReference section */
 		690A5A0C1E8CD1F600A6A9C0 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
-		6945F52D1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSURLSessionDataTask+reCount.h"; path = "../NSURLSessionDataTask+reCount.h"; sourceTree = "<group>"; };
-		6945F52E1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSURLSessionDataTask+reCount.m"; path = "../NSURLSessionDataTask+reCount.m"; sourceTree = "<group>"; };
 		699056141E8B48A300D014AB /* MPUpSpringDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MPUpSpringDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		699056181E8B48A300D014AB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6990561A1E8B48A300D014AB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -69,8 +66,6 @@
 		699056161E8B48A300D014AB /* MPUpSpringDemo */ = {
 			isa = PBXGroup;
 			children = (
-				6945F52D1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.h */,
-				6945F52E1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.m */,
 				690A5A0C1E8CD1F600A6A9C0 /* 1.jpg */,
 				6990561A1E8B48A300D014AB /* AppDelegate.h */,
 				6990561B1E8B48A300D014AB /* AppDelegate.m */,
@@ -173,7 +168,6 @@
 				699056301E8B49C200D014AB /* MPPanButton.m in Sources */,
 				6990561F1E8B48A300D014AB /* ViewController.m in Sources */,
 				6990561C1E8B48A300D014AB /* AppDelegate.m in Sources */,
-				6945F52F1E8F8BD60060DE90 /* NSURLSessionDataTask+reCount.m in Sources */,
 				699056191E8B48A300D014AB /* main.m in Sources */,
 				699056881E8BB53A00D014AB /* MPPerson.m in Sources */,
 			);
